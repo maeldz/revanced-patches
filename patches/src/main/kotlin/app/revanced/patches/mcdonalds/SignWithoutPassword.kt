@@ -4,12 +4,10 @@ import app.revanced.patcher.patch.bytecodePatch
 
 @Suppress("unused")
 val examplePatch = bytecodePatch(
-    name = "Example Patch",
-    description = "This is an example patch to start with.",
+    name = "Sign Without Password",
+    description = "Be able to sign in Mc Donald's app only with email.",
 ) {
-    compatibleWith("com.mcdo.mcdonalds"("1.0.0"))
-
-    extendWith("extensions/extension.rve")
+    compatibleWith("com.mcdo.mcdonalds"("4.10.0"))
 
     execute {
         // TODO("Not yet implemented")
