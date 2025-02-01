@@ -1,3 +1,10 @@
+# 1.0.0 (2025-02-01)
+
+
+### Bug Fixes
+
+* website ([f1bfd70](https://github.com/maeldz/revanced-patches/commit/f1bfd7085147311b3a91e5f7c77bf83718b46c09))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
