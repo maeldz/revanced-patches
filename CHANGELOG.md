@@ -1,3 +1,14 @@
+## [1.0.1](https://github.com/maeldz/revanced-patches/compare/v1.0.0...v1.0.1) (2025-02-01)
+
+
+### Bug Fixes
+
+* modify mc donalds patch ([f61a21f](https://github.com/maeldz/revanced-patches/commit/f61a21f8761f12a0e7e96795f8aa072b4eb58867))
+* modify mc donalds patch ([dd2e444](https://github.com/maeldz/revanced-patches/commit/dd2e444c4f3267a6ba8f78db1d3299c1c01fda50))
+* patchs api file ([cd1b15b](https://github.com/maeldz/revanced-patches/commit/cd1b15be005a788fcb475dbb62318113a4de9dd5))
+* patchs api file ([16aa687](https://github.com/maeldz/revanced-patches/commit/16aa687fb08f19a1e07cdd302781bbb15e94ec8f))
+* remove exemple patch ([a78c1b4](https://github.com/maeldz/revanced-patches/commit/a78c1b428d9f26061a54af693d678ff04e28dcc3))
+
 # 1.0.0 (2025-02-01)
 
 
