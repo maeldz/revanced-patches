@@ -1,4 +1,4 @@
-package app.revanced.patches.example
+package app.revanced.patches.mcdonalds
 
 import app.revanced.patcher.patch.bytecodePatch
 
