@@ -51,7 +51,7 @@ jobs:
         with:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.GPG_PASSPHRASE }}
-          # fingerprint: ${{ vars.GPG_FINGERPRINT }}
+          fingerprint: ${{ vars.GPG_FINGERPRINT }}
 
       - name: Release
         env:
