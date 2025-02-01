@@ -2,12 +2,12 @@ group = "app.revanced"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
-        website = "https://revanced.app"
+        name = "ReVanced Custom Patches"
+        description = "Patches for ReVanced"
+        source = "git@github.com:maeldz/revanced-patches.git"
+        author = "maeldz"
+        contact = "mael.dazareia@gmail.com"
+        website = "https://github.com/maeldzp"
         license = "GNU General Public License v3.0"
     }
 }
