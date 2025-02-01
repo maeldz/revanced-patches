@@ -1,4 +1,4 @@
-public final class app/revanced/patches/mcdonalds/SignWithoutPassword {
+public final class app/revanced/patches/mcdonalds/SignWithoutPasswordKt {
 	public static final fun getExamplePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
